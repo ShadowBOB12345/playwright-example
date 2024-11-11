@@ -1,0 +1,18 @@
+{
+  "name": "playwrighttest",
+  "version": "1.0.0",
+  "description": "Playwright tests on TS",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Meerim Zhanuzakova",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "playwright": "^1.48.2"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^9.2.0",
+    "@playwright/test": "^1.48.2",
+    "@types/node": "^22.9.0"
+  }
+}
